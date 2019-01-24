@@ -1,0 +1,24 @@
+input
+
+8 10
+
+1 2 6
+1 3 12
+2 3 5
+2 4 14
+2 5 8
+3 6 7
+3 7 9
+4 5 3
+5 6 10
+6 8 15
+
+output
+
+Canh: 4 5 Trong so: 3
+Canh: 2 3 Trong so: 5
+Canh: 1 2 Trong so: 6
+Canh: 3 6 Trong so: 7
+Canh: 2 5 Trong so: 8
+Canh: 3 7 Trong so: 9
+Canh: 6 8 Trong so: 15
